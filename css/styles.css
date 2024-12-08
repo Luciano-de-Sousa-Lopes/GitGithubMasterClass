@@ -2,3 +2,16 @@
   padding: 2rem;
   background-color: hotpink;
 }
+
+div {
+  background-color: black;
+  padding: 1rem;
+}
+
+h1 {
+  color: yellow;
+}
+
+h2 {
+  color: green;
+}
